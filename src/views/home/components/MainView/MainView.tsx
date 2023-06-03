@@ -1,7 +1,6 @@
 import CostPerformance
   from '@/views/home/components/MainView/components/CostPerformance/CostPerformance'
 import Marvellous from '@/views/home/components/MainView/components/Marvellous/Marvellous'
-import Paragraph from '@/views/home/components/MainView/components/Paragraph/Paragraph'
 import Plus from '@/views/home/components/MainView/components/Plus/Plus'
 import Popular from '@/views/home/components/MainView/components/Popular/Popular'
 import PositiveReviews
